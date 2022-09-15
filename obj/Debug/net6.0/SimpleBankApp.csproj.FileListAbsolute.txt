@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.AssemblyInfo.cs
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SimpleBankApp\bin\Debug\net6.0\SimpleBankApp.exe
+C:\Users\user\Desktop\SimpleBankApp\bin\Debug\net6.0\SimpleBankApp.deps.json
+C:\Users\user\Desktop\SimpleBankApp\bin\Debug\net6.0\SimpleBankApp.runtimeconfig.json
+C:\Users\user\Desktop\SimpleBankApp\bin\Debug\net6.0\SimpleBankApp.dll
+C:\Users\user\Desktop\SimpleBankApp\bin\Debug\net6.0\SimpleBankApp.pdb
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.dll
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\refint\SimpleBankApp.dll
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.pdb
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\SimpleBankApp.genruntimeconfig.cache
+C:\Users\user\Desktop\SimpleBankApp\obj\Debug\net6.0\ref\SimpleBankApp.dll
